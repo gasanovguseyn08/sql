@@ -1,5 +1,5 @@
-CREATE DATABASE carracing;
-USE carracing;
+CREATE DATABASE vehicles;
+USE vehicles;
 
 CREATE TABLE Vehicle (
     maker VARCHAR(100) NOT NULL,
